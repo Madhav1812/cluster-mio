@@ -4,6 +4,6 @@ We create a mixed-integer optimization (MIO) approach for doing cluster-aware re
 
 Paper can be found here: https://arxiv.org/abs/2302.03157
 
-##Code
+## Code ##
 * [clust_mio.jl](https://github.com/Madhav1812/cluster-mio/blob/main/clust_mio.jl) has the code for the main MIO algorithm for the clustered data
 * [simul.jl](https://github.com/Madhav1812/cluster-mio/blob/main/simul.jl) has the framework for the simulation studies conducted in the paper
